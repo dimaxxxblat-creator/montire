@@ -1,0 +1,10 @@
+node_modules/
+out/
+*.mp4
+*.mov
+*.wav
+*.mp3
+snapshots/
+renders/
+media/inbox/
+.DS_Store
